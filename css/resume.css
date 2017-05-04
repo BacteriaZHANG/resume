@@ -231,7 +231,7 @@ h3 small {
 	height: 450px;
 	border-radius: 50%;
 	background-color: #eee;
-	opacity: 0;
+	opacity: 0.8;
     text-align: center;
 }
 .post-header {
