@@ -61,9 +61,6 @@
 	#intro .row {
 	    width: 600px;
 	}
-	.avatar {
-		display: none;
-	}
 }
 #intro .container {
 	position: absolute;
