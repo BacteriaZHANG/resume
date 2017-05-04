@@ -119,15 +119,15 @@ h3 small {
 /*---------------skill----------------*/
 
 #skill {
-	background-color: #fff;
-	height: calc(100vh - 100px);
+    background-color: #fff;
+    height: 100%;
     width: 100%;
 }
 #skill .container{
     transform-style: flat;
     padding-top: 80px;
     width: 50%;
-    height: 620px;
+    height: 100%;
 }
 #skill ul {
 	padding: 0;
