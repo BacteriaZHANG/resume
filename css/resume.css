@@ -253,20 +253,14 @@ h3 small {
 	margin-top: 50px;
 }
 #moreSkill .left {
-	width: 10%;
 	float: left;
 	text-align: right;
-}
-#moreSkill .right {
-	width: 50%;
-	float: right;
 }
 .skill {
 	padding-bottom: 10px;
 }
 #moreSkill .avatar {
 	position: relative;
-	width: 40%;
 	height: 400px;
 }
 #stageBody {
