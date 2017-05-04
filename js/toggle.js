@@ -65,15 +65,6 @@ $(function () {
         		$navBar.addClass("attop");
         		$skillH1.addClass('animated zoomInLeft');
         		slideIn();
-			$postHeader.animate({
-			    opacity:"1",
-			    paddingTop:"87px",
-			filter: "alpha(opacity=100)"
-			}, 500);
-			$postContent.animate({
-			    opacity:"1",
-			    filter: "alpha(opacity=100)"
-			}, 500);
         		break;
         	default:
         }
