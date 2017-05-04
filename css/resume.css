@@ -62,18 +62,25 @@
 	    width: 600px;
 	}
 	.avatar {
-		display: none;
+	    display: none;
+	}
+	#post-header {
+	    opacity:1;
+	    padding-top:87px;
+	}
+	#post-content {
+	    opacity: 1;
 	}
 	#picture {
-		display: none;
+	    display: none;
 	}
 }
 #intro .container {
 	position: absolute;
-    bottom: 18%;
-    left: 0;
-    right: 0;
-    margin: auto;
+        bottom: 18%;
+        left: 0;
+        right: 0;
+        margin: auto;
 }
 .h3.name {
 	color: #fff;
