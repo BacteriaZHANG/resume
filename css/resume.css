@@ -56,6 +56,9 @@
 	#intro .row {
 	    width: 970px;
 	}
+	.avatar, .p5, .p6 {
+		display: none;
+	}
 }
 @media (max-width: 768px){
 	#intro .row {
