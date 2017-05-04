@@ -237,17 +237,20 @@ h3 small {
 #moreSkill {
 	position: relative;
 	width: 100%;
-	height: calc(100vh - 70px);
+	height: 100%;
 	font-weight: 900;
 	padding: 50px;
 	background-color: #fff;
+}
+#moreSlill .container .row {
+    margin: 50px 0;
 }
 #moreSkill>h1>span {
 	display: inline-block;
 	border-bottom: 2px solid #333;
 }
 #moreSkill>div {
-	margin-top: 100px;
+	margin-top: 50px;
 }
 #moreSkill .left {
 	width: 10%;
