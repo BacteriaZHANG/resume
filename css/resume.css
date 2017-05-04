@@ -333,12 +333,12 @@ h3 small {
 #btn1 {
 	position: absolute;
 	top: 50%;
-	left: -20px;
+	left: -70px;
 }
 #btn2 {
 	position: absolute;
 	top: 50%;
-	right: -20px;
+	right: -70px;
 	z-index: 1;
 }
 
