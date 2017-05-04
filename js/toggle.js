@@ -50,7 +50,6 @@ $(function () {
         		break;
         	case scrollTop >= top && scrollTop < 2 * windowHeight:
         		$navBar.addClass("attop");
-        		$book.animate(
 			$postHeader.animate({
 			    opacity:"1",
 			    filter: "alpha(opacity=100)",
@@ -65,6 +64,15 @@ $(function () {
         		$navBar.addClass("attop");
         		$skillH1.addClass('animated zoomInLeft');
         		slideIn();
+			$postHeader.animate({
+			    opacity:"1",
+			    filter: "alpha(opacity=100)",
+			    paddingTop:"87px"
+			}, 500);
+			$postContent.animate({
+			    filter: "alpha(opacity=100)",
+			    opacity:"1"
+			}, 500);
         		break;
         	default:
         }
