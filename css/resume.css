@@ -330,8 +330,9 @@ h3 small {
 
 #basic {
 	width: 100%;
-	height: calc(100vh - 68px);
+	height: 100%;
 	background-color: #fff;
+	margin-bottom: 100px;
 }
 #basic p,
 #about p {
@@ -368,7 +369,7 @@ h3 small {
 
 #about {
 	width: 100%;
-	height: 400px;
+	height: 100%;
 	background-color: #241a1f;
 }
 #about {
