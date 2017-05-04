@@ -130,7 +130,9 @@ h3 small {
     height: 100%;
 }
 #skill ul {
-	padding: 0;
+	padding: 0 50px;
+	height: 410px;
+	overflow: hidden;
 }
 #skill ul li {
 	position: relative;
@@ -390,7 +392,7 @@ h3 small {
 }
 #about .container {
 	color: #fff;
-	margin-bottom: 50px;
+	padding-bottom: 50px;
 }
 #about .content {
 	margin-top: 1em;
