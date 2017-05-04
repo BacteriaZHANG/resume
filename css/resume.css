@@ -372,8 +372,9 @@ h3 small {
 	height: 100%;
 	background-color: #241a1f;
 }
-#about {
+#about .container {
 	color: #fff;
+	margin-bottom: 50px;
 }
 #about .content {
 	margin-top: 1em;
