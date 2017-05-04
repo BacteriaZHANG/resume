@@ -55,9 +55,11 @@ $(function () {
 				}, 500);
 				$postHeader.animate({
 					opacity:"1",
+                    			filter: "alpha(opacity=100)",
 					paddingTop:"87px"
 				}, 500);
 				$postContent.animate({
+                    			filter: "alpha(opacity=100)",
 					opacity:"1"
 				}, 500);
         		break;
